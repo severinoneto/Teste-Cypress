@@ -1,2 +1,2 @@
-# aula8
- Criação de telas no ionic
+# Cypress
+ Framework de testes automatizados para a disciplina de web 2
